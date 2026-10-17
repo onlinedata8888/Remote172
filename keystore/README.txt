@@ -1,0 +1,4 @@
+alias: remote65
+store password: remote65pass
+key password: remote65pass
+SHA256: ae79c07f146cbad9701dc8d2581229bfa32a65aefc9e886a38cc2fcd32849760
